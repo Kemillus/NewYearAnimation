@@ -1,0 +1,9 @@
+D:\Veronika\NewYearAnimation\NewYearAnimation\bin\Debug\NewYearAnimation.exe.config
+D:\Veronika\NewYearAnimation\NewYearAnimation\bin\Debug\NewYearAnimation.exe
+D:\Veronika\NewYearAnimation\NewYearAnimation\bin\Debug\NewYearAnimation.pdb
+D:\Veronika\NewYearAnimation\NewYearAnimation\obj\Debug\NewYearAnimation.csproj.AssemblyReference.cache
+D:\Veronika\NewYearAnimation\NewYearAnimation\obj\Debug\NewYearAnimation.Properties.Resources.resources
+D:\Veronika\NewYearAnimation\NewYearAnimation\obj\Debug\NewYearAnimation.csproj.GenerateResource.cache
+D:\Veronika\NewYearAnimation\NewYearAnimation\obj\Debug\NewYearAnimation.csproj.CoreCompileInputs.cache
+D:\Veronika\NewYearAnimation\NewYearAnimation\obj\Debug\NewYearAnimation.exe
+D:\Veronika\NewYearAnimation\NewYearAnimation\obj\Debug\NewYearAnimation.pdb

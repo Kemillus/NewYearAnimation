@@ -3,26 +3,39 @@
   "WorkspaceRootPath": "D:\\Veronika\\NewYearAnimation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|d:\\veronika\\newyearanimation\\newyearanimation\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|d:\\veronika\\newyearanimation\\newyearanimation\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|solutionrelative:newyearanimation\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|d:\\veronika\\newyearanimation\\newyearanimation\\cloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|solutionrelative:newyearanimation\\cloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|D:\\Veronika\\NewYearAnimation\\newyearanimation\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|solutionrelative:newyearanimation\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|d:\\veronika\\newyearanimation\\newyearanimation\\snowflake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|solutionrelative:newyearanimation\\snowflake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|d:\\veronika\\newyearanimation\\newyearanimation\\rink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|solutionrelative:newyearanimation\\rink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|D:\\Veronika\\NewYearAnimation\\newyearanimation\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|solutionrelative:newyearanimation\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leogr\\AppData\\Local\\Temp\\Rar$DIa11256.22935\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|d:\\veronika\\newyearanimation\\newyearanimation\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|solutionrelative:newyearanimation\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|d:\\veronika\\newyearanimation\\newyearanimation\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|D:\\Veronika\\NewYearAnimation\\newyearanimation\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|solutionrelative:newyearanimation\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|d:\\veronika\\newyearanimation\\newyearanimation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|D:\\Veronika\\NewYearAnimation\\newyearanimation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|solutionrelative:newyearanimation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|d:\\veronika\\newyearanimation\\newyearanimation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|D:\\Veronika\\NewYearAnimation\\newyearanimation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{80404B98-D1BD-4C5E-9BBE-DAA2940ED1AF}|NewYearAnimation\\NewYearAnimation.csproj|solutionrelative:newyearanimation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -31,23 +44,6 @@
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\leogr\\AppData\\Local\\Temp\\Rar$DIa11256.22935\\main.cpp",
-              "ToolTip": "C:\\Users\\leogr\\AppData\\Local\\Temp\\Rar$DIa11256.22935\\main.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwEMAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-07T16:03:40.974Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
         {
           "DockedWidth": 200,
           "SelectedChildIndex": 4,
@@ -66,59 +62,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Human.cs",
-              "DocumentMoniker": "D:\\Veronika\\NewYearAnimation\\NewYearAnimation\\Human.cs",
-              "RelativeDocumentMoniker": "NewYearAnimation\\Human.cs",
-              "ToolTip": "D:\\Veronika\\NewYearAnimation\\NewYearAnimation\\Human.cs",
-              "RelativeToolTip": "NewYearAnimation\\Human.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Cloud.cs",
+              "DocumentMoniker": "D:\\Veronika\\NewYearAnimation\\NewYearAnimation\\Cloud.cs",
+              "RelativeDocumentMoniker": "NewYearAnimation\\Cloud.cs",
+              "ToolTip": "D:\\Veronika\\NewYearAnimation\\NewYearAnimation\\Cloud.cs",
+              "RelativeToolTip": "NewYearAnimation\\Cloud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T16:34:52.6Z",
+              "WhenOpened": "2024-12-11T15:11:40.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\Veronika\\NewYearAnimation\\NewYearAnimation\\Character.cs",
+              "RelativeDocumentMoniker": "NewYearAnimation\\Character.cs",
+              "ToolTip": "D:\\Veronika\\NewYearAnimation\\NewYearAnimation\\Character.cs",
+              "RelativeToolTip": "NewYearAnimation\\Character.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:06:54.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rink.cs",
+              "DocumentMoniker": "D:\\Veronika\\NewYearAnimation\\NewYearAnimation\\Rink.cs",
+              "RelativeDocumentMoniker": "NewYearAnimation\\Rink.cs",
+              "ToolTip": "D:\\Veronika\\NewYearAnimation\\NewYearAnimation\\Rink.cs",
+              "RelativeToolTip": "NewYearAnimation\\Rink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:05:53.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Veronika\\NewYearAnimation\\NewYearAnimation\\Item.cs",
+              "RelativeDocumentMoniker": "NewYearAnimation\\Item.cs",
+              "ToolTip": "D:\\Veronika\\NewYearAnimation\\NewYearAnimation\\Item.cs",
+              "RelativeToolTip": "NewYearAnimation\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:47:17.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Snowflake.cs",
+              "DocumentMoniker": "D:\\Veronika\\NewYearAnimation\\NewYearAnimation\\Snowflake.cs",
+              "RelativeDocumentMoniker": "NewYearAnimation\\Snowflake.cs",
+              "ToolTip": "D:\\Veronika\\NewYearAnimation\\NewYearAnimation\\Snowflake.cs",
+              "RelativeToolTip": "NewYearAnimation\\Snowflake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:35:04.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "House.cs",
               "DocumentMoniker": "D:\\Veronika\\NewYearAnimation\\NewYearAnimation\\House.cs",
               "RelativeDocumentMoniker": "NewYearAnimation\\House.cs",
               "ToolTip": "D:\\Veronika\\NewYearAnimation\\NewYearAnimation\\House.cs",
               "RelativeToolTip": "NewYearAnimation\\House.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T16:34:37.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Tree.cs",
               "DocumentMoniker": "D:\\Veronika\\NewYearAnimation\\NewYearAnimation\\Tree.cs",
               "RelativeDocumentMoniker": "NewYearAnimation\\Tree.cs",
               "ToolTip": "D:\\Veronika\\NewYearAnimation\\NewYearAnimation\\Tree.cs",
               "RelativeToolTip": "NewYearAnimation\\Tree.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T16:34:24.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Veronika\\NewYearAnimation\\NewYearAnimation\\Form1.cs",
               "RelativeDocumentMoniker": "NewYearAnimation\\Form1.cs",
               "ToolTip": "D:\\Veronika\\NewYearAnimation\\NewYearAnimation\\Form1.cs",
               "RelativeToolTip": "NewYearAnimation\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T16:02:13.859Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Veronika\\NewYearAnimation\\NewYearAnimation\\Form1.cs",
               "RelativeDocumentMoniker": "NewYearAnimation\\Form1.cs",
